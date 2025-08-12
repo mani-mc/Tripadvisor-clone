@@ -24,6 +24,7 @@ Using Flexbox and Grid effectively
 Organizing a large-scale webpage into modular sections
 
 Paying attention to typography, colors, and spacing
+🌐Live Here : (https://mani-mc.github.io/Tripadvisor-clone/)
 
 🚀 Future Improvements
 Make the website fully responsive across all devices# Tripadvisor-clone
